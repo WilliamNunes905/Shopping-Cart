@@ -14,6 +14,11 @@
 - Instale as dependências:
   - `npm install`
 
+3. Rodar o projeto
+
+- Script para iniciar o projeto
+  - `npm run dev`
+
 </details>
 
 <details>
