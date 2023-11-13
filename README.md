@@ -1,7 +1,7 @@
 # Orientações
 
 <details>
-  <summary><strong>‼️ Antes de começar a desenvolver</strong></summary><br />
+  <summary><strong>‼️ Instalando Dependencias</strong></summary><br />
 
 1. Clone o repositório
 
